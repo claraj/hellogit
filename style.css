@@ -2,3 +2,11 @@ body {
     background-color: darkcyan;
     color:purple
 }
+
+p {
+    font-weight: bold;
+}
+
+li {
+    font-style: italic;
+}
